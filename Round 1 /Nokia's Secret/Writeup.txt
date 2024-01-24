@@ -1,0 +1,6 @@
+Nokia's Secret
+
+- How to solve
+Using zsteg, we find a google drive link. Inside the google drive link there is a txt file which has text encrypted in ATBASH. Once decrypted we need to find the CVE associated to get the flag.
+
+Flag: csd{CVE-2023-37192}
