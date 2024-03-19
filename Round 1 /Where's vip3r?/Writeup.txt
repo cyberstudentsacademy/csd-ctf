@@ -1,8 +1,0 @@
-
-Where's vip3r?
-
-- How to solve
-Using a tool like Google image barely gives results, when the image is put through a EXIF viewer you won't see any metadata, but a little searching about the area finds us a place called Maheswara Maha Pyramid kadthal. 
-with the same "I love Patriji" on Google earth
-
-Flag: csd{maheswara_maha_pyramid_kadthal} or csd{maheswara_maha_kadthal_pyramid}

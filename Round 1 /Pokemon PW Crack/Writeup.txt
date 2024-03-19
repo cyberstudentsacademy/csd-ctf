@@ -1,9 +1,0 @@
-Pokemon PWD Crack
-
-- How to solve
-First you need to determine the hash, using a tool like haiti will tell you it's NLTM.
-Next, you need to use a Tool like CeWL to create a pokemon wordlist and write a python script to add a number between 10-99 to each Pokemon.
-
-The command to run is hashcat -m 1000 [hashes.txt] [wordlist.txt]
-
-Flag: csd{hitmonchan34}
