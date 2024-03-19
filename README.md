@@ -17,3 +17,9 @@ CTF, and the source code is available on GitHub.
 
 - [Round 1](rounds/1/README.md) (01/14/2024 - 01/17/2024)
 - [Round 2](rounds/2/README.md) (02/04/2024 - 02/26/2024)
+
+## License
+
+[CyberStudents CTF Archive](https://github.com/cyberstudentsacademy/csd-ctf/tree/main) © 2024 by
+[CyberStudents](https://github.com/cyberstudentsacademy) is licensed under
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
