@@ -5,7 +5,7 @@ This repository contains challenges from previous rounds of the CyberStudents CT
 The CSD-CTF is a cybersecurity capture-the-flag competition focused on students, organized by the CyberStudents Discord
 community. It features a wide range of categories, from web exploitation to OSINT, and is designed to be
 beginner-friendly. Each round lasts for around a month, and top players on the leaderboard may receive prizes. If you're
-interested in participating, you can [join us on Discord](https://discord.gg/cyberstudents-916144903686336513).
+interested in participating, you can [join us on Discord](https://vipinb.xyz/csd).
 
 If you have any questions or concerns, feel free to reach out to us on Discord or open an issue. If you spot any errors
 or have suggestions for improvements, you can open an issue or pull request.
