@@ -1,4 +1,4 @@
-# Find Vip3r Pt. 2
+# Brute For Loot
 
 - Published: 02/09/2024 (#6/11 in round)
 - Category: Misc
