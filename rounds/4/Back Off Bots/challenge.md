@@ -13,7 +13,7 @@ What can I say, this website just really doesn't like robots. 🤷‍♂️
 
 ## Hint
 
-This hint costed 10 points.
+This hint costed 30 points.
 
 <details>
 <summary>Reveal hint</summary>
