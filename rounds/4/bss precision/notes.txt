@@ -1,0 +1,65 @@
+1.
+
+12 - 8 = 4
+
+>> 4
+<< 4
+
+0x1234 >> 4 = 0x123
+0x1234 << 4 = 0x12340
+
+0x1234 >> 4 = 0x123
+0x123  << 4 = 0x1230
+
+0x1234 != 0x1230
+
+a = 0x61
+b = 0x62
+c = 0x63
+d = 0x64
+e = 0x65
+f = 0x66
+g = 0x67
+h = 0x68
+i = 0x69
+j = 0x6a
+k = 0x6b
+l = 0x6c
+m = 0x6d
+n = 0x6e
+o = 0x6f
+p = 0x70
+q = 0x71
+r = 0x72
+s = 0x73
+t = 0x74
+u = 0x75
+v = 0x76
+w = 0x77
+x = 0x78
+y = 0x79
+z = 0x7a
+
+-------------------------
+
+2.
+
+remember endianess
+
+abcd -> 0x64636261 in memory
+
+-------------------------
+
+3.
+
+if you get to "You win!", assuming the shortest way to get there (2 inputs),
+
+the flag is:
+the last character of your first input
++ 
+the last 4 characters of your second input
+wrapped in csd{}
+
+ex: 1. abcd -> d
+    2. abcdefgh -> efgh
+    flag: csd{defgh}
