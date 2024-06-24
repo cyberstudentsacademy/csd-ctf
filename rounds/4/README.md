@@ -1,6 +1,6 @@
-# Round 3
+# Round 4
 
-This round featured 6 challenges (excluding the Sanity Check) lasting from 03/09/2024 to 04/01/2024.
+This round featured 14 challenges (excluding the Sanity Check) lasting from 04/03/2024 to 05/01/2024
 
 | #   | Name                                                          | Category                   | Published  | Points | Author        |
 | --- | ------------------------------------------------------------- | -------------------------- | ---------- | ------ | ------------- |
