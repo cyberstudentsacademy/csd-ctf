@@ -68,3 +68,5 @@ Flag: `csd{y0ur3v3rs3d1t789}`
 </details>
 
 Write-up by Mr_MPH ([link to original](https://mr-mph.notion.site/CyberStudents-CTF-Challenge-Writeup-1-0caf77ee503f429a8454340a52fc52e3?pvs=4))
+
+>>>>>>> 8fb7962a32036af4d03322f92aa8ceecc333fa7d

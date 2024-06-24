@@ -1,9 +1,10 @@
 # 1364 Rotten Apple
 
+<<<<<<< HEAD
 - Published: 04/04/2024 (#2/14 in round)
-- Category: Cryptography
+- Category: Steganography
 - Points: 25
-- Author: arx7254
+- Author: iARX
 
 Someone sent me a bunch of random letters, can you decode it?
 
@@ -20,7 +21,7 @@ This hint costed 10 points.
 <details>
 <summary>Reveal hint</summary>
 
-Focus on the title. 13 & 64 also Rotten apples? Could those mean anything?
+Focus on the title... 13 & 64? Rotten apples? Could those mean anything? 
 
 </details>
 
@@ -29,12 +30,13 @@ Focus on the title. 13 & 64 also Rotten apples? Could those mean anything?
 <details>
 <summary>Reveal write-up</summary>
 
-[CyberChef recipe](https://gchq.github.io/CyberChef/#recipe=ROT13(true,true,false,13)From_Base64('A-Za-z0-9%2B/%3D',true,false)From_Base64('A-Za-z0-9%2B/%3D',true,false)From_Base64('A-Za-z0-9%2B/%3D',true,false)&input=STFFQkcyUmxJS3F2RTFjSUhhY2VySUVIRUdJdUl4TVJJSmduSkpJZm4zcUtGVGt1TVNNakUwOUpHeDVHRXhjZ0lTTUZHMDlFQ0cwPQo)
+A simple decoding challenge utilizing basic cryptography, we can solve this by decoding from **ROT 13** initially and then repeatedly decoding from **Base64**. 
 
-Alternatively, using the magic button on cyberchef 3 times will also work.
+[Cyberchef recipe](https://gchq.github.io/CyberChef/#recipe=ROT13(true,true,false,13)From_Base64('A-Za-z0-9%2B/%3D',true,false)From_Base64('A-Za-z0-9%2B/%3D',true,false)From_Base64('A-Za-z0-9%2B/%3D',true,false)&input=STFFQkcyUmxJS3F2RTFjSUhhY2VySUVIRUdJdUl4TVJJSmduSkpJZm4zcUtGVGt1TVNNakUwOUpHeDVHRXhjZ0lTTUZHMDlFQ0cwPQ) to decode.
 
 Flag: ```csd{I_Lov3_b@$E_64_&nd_R0t_13}```
 
+
 </details>
 
-Write-up by kolmus
+Write-up by [Vipin](https://vipinb.xyz)

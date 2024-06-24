@@ -3,7 +3,7 @@
 - Published: 02/09/2024 (#6/11 in round)
 - Category: Misc
 - Points: 90
-- Author: Vipin
+- Author: Kshau
 
 Try cracking the password! (command to crack the zip "login.exe \<password>")
 

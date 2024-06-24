@@ -1,9 +1,10 @@
 # chocolate crack
 
-- Published: 04/06/2024 (#3/14 in round)
+<<<<<<< HEAD
+- Published: 04/05/2024 (#3/14 in round)
 - Category: PWD Cracking
-- Points: 25
-- Author: Vipin
+- Points: 50
+- Author: Kshau
 
 i love chocolate crack dont u? Wrap the password in csd{}.
 
@@ -29,16 +30,18 @@ Check out [Seclists](https://github.com/danielmiessler/SecLists), there has to b
 <details>
 <summary>Reveal write-up</summary>
 
-Download this wordlist: [10-million-password-list-top-1000000.txt](https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/10-million-password-list-top-1000000.txt) with your favorite hash cracking tool.
-
-hashcat example:
+As the tip says, popular wordlists don't work. With this knowledge we can assume that *rockyou.txt* wouldn't work. A popular place to look for password wordlists is [Seclists](https://github.com/danielmiessler/SecLists), the biggest wordlist in the repository is *xato-net-10-million-passwords.txt*. Let's try to crack with that!
 
 ```bash
-hashcat -m 500 -a 0 '$1$CSDCTF$9VCUkEcQqzqz/sg1aYAbM.' 10-million-password-list-top-1000000.txt
+echo '$1$CSDCTF$9VCUkEcQqzqz/sg1aYAbM.' > hash && hashcat -m 500 hash /Users/vipin/tech/CTFs/wordlists/xato-net-10-million-passwords.txt
 ```
+
+And from that we get the password `$1$CSDCTF$9VCUkEcQqzqz/sg1aYAbM.:zaq8xsw5cde3`. After wrapping with csd{}, you get the flag.
+
 
 Flag: ```csd{zaq8xsw5cde3}```
 
 </details>
 
-Write-up by kolmus
+Write-up by [Vipin](https://vipinb.xyz)
+

@@ -1,9 +1,10 @@
 # Zoomed Past Me
 
+<<<<<<< HEAD
 - Published: 04/03/2024 (#1/14 in round)
 - Category: Steganography
 - Points: 25
-- Author: kshau
+- Author: Kshau
 
 This GIF file I found appears to display something strange, but that something keeps disappearing. Please help me!
 
@@ -27,12 +28,14 @@ Use an online tool to split the GIF by frames.
 <details>
 <summary>Reveal write-up</summary>
 
-Find a way to view the GIF frame by frame. You can use an online tool like [ezgif](https://ezgif.com/split).
+We can use an online GIF splitter like [this](https://ezgif.com/split/ezgif-4-844b9cd06c.gif) to find the flag hidden in the frames. Towards the end of the frames you will find this. 
 
-The flag is displayed in the top right corner of the later frames.
+![csd{secretflagbyvipininthewriteup}](images/ss1.png "Fig 1.")
 
 Flag: ```csd{d0_n0t_bl1nk_0pwM47}```
 
+
 </details>
 
-Write-up by kolmus
+Write-up by [Vipin](https://vipinb.xyz)
+=======

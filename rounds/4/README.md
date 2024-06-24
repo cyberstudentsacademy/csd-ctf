@@ -1,6 +1,7 @@
 # Round 4
 
 This round featured 14 challenges (excluding the Sanity Check) lasting from 04/03/2024 to 05/01/2024
+>>>>>>> 26f0dff2a1a45d4231139ebd10a5951b5a781e39
 
 | #   | Name                                                          | Category                   | Published  | Points | Author        |
 | --- | ------------------------------------------------------------- | -------------------------- | ---------- | ------ | ------------- |
@@ -35,3 +36,5 @@ This round featured 14 challenges (excluding the Sanity Check) lasting from 04/0
 | 10th Place        | zsawk         | 305    |
 
 Contact qvipin or GodderE2D on Discord if the leaderboard doesn't seem correct.
+
+>>>>>>> 8fb7962a32036af4d03322f92aa8ceecc333fa7d

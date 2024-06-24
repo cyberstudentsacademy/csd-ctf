@@ -27,7 +27,7 @@ look at my message _[refers to `qvipin`'s messages on Discord in CyberStudents]_
 
 Discord has a search functionality that allows us to search for messages with specific filters. The
 `after:2023-12-31 before:2024-02-01` filter allows us to search for messages sent only in January 2024. (The challenge
-and CTF was made in 2024, so we can infer that.) Additionally, since we know the flag starts with `csd{`, we can add
+and CTF was made in 2024, so we can infer that). Additionally, since we know the flag starts with `csd{`, we can add
 that to our query.
 
 Our final search query is `after:2023-12-31 before:2024-02-01 csd{`.
