@@ -1,6 +1,5 @@
 # 1364 Rotten Apple
 
-<<<<<<< HEAD
 - Published: 04/04/2024 (#2/14 in round)
 - Category: Steganography
 - Points: 25

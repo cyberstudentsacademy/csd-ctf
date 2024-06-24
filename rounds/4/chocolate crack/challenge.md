@@ -1,6 +1,5 @@
 # chocolate crack
 
-<<<<<<< HEAD
 - Published: 04/05/2024 (#3/14 in round)
 - Category: PWD Cracking
 - Points: 50

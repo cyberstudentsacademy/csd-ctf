@@ -1,6 +1,5 @@
 # Zoomed Past Me
 
-<<<<<<< HEAD
 - Published: 04/03/2024 (#1/14 in round)
 - Category: Steganography
 - Points: 25
