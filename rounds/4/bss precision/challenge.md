@@ -5,9 +5,7 @@
 - Points: 150
 - Author: kolmus
 
-There was once a great page on the internet that contained this marvelous poem. That page has been long lost, but legend says that it still lies somewhere on this website in an HTML file known as "poem".
-
-(Note: The "403 Forbidden" message is intentional)
+I was working on my overflow skills, but I ran out of time before getting to the end. I left you some notes I took when working on it along with the source code. Good luck!
 
 ## Attachments
 
