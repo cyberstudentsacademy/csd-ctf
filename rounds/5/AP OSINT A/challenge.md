@@ -29,10 +29,10 @@ OpenStreetMap can be queried.
 <details>
 <summary>Reveal write-up</summary>
 
-Solution currently unavailable.
+[Click this link for the solution.](https://mr-mph.notion.site/CyberStudents-CTF-Challenge-Writeup-2-c3952c4015174d90bb7ff5bfa3a02318)
 
 Flag: ```csd{grey_fox_creek_fountain}```
 
 </details>
 
-Write-up by **N/A**  
+Write-up by Mr_MPH (Notion Link)
