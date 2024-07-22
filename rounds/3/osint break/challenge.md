@@ -64,4 +64,4 @@ Flag: ```csd{1_D0N7_7rU57_4_50U1_1_D0N7_7rU57_N080DY}```
 
 </details>
 
-Write-up by [Vipin](https://vipinb.xyz)
+Write-up by [Vipin](https://vipin.xyz)

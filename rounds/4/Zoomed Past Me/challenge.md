@@ -36,5 +36,4 @@ Flag: ```csd{d0_n0t_bl1nk_0pwM47}```
 
 </details>
 
-Write-up by [Vipin](https://vipinb.xyz)
-=======
+Write-up by [Vipin](https://vipin.xyz)

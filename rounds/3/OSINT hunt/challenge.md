@@ -33,7 +33,7 @@ Using a tool like [epieos.com](https://epieos.com/), we can take a look at the G
 
 > Gmail Name: vipinb.xyzslashconfig yuh
 
-Heading to [vipinb.xyz/config](https://vipinb.xyz/config), we see 2 things. 1: a Base58 encoded string 2: a link to a zip which is password protected. Decoding the Base58 string asks...
+Heading to [vipinb.xyz/config](https://vipin.xyz/config), we see 2 things. 1: a Base58 encoded string 2: a link to a zip which is password protected. Decoding the Base58 string asks...
 
 >What is the CVE identifier for the security vulnerability that compromises Minecraft's in-game chat, allowing unauthorized access to personal data by server owners and malicious players?
 
@@ -48,4 +48,4 @@ Flag: ```csd{simpleflagyflagcusilikeflags}```
 
 </details>
 
-Write-up by [Vipin](https://vipinb.xyz)
+Write-up by [Vipin](https://vipin.xyz)

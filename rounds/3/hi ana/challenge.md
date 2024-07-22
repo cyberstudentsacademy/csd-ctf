@@ -44,4 +44,4 @@ Flag: `csd{39d569bc0fc532d2993920f1f1bf0fabf82b510d44471374045672d7a15f33b0}` or
 
 </details>
 
-Write-up by [Vipin](https://vipinb.xyz)
+Write-up by [Vipin](https://vipin.xyz)

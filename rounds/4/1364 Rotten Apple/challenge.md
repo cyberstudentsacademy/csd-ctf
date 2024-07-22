@@ -38,4 +38,4 @@ Flag: ```csd{I_Lov3_b@$E_64_&nd_R0t_13}```
 
 </details>
 
-Write-up by [Vipin](https://vipinb.xyz)
+Write-up by [Vipin](https://vipin.xyz)

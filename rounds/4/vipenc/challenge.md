@@ -50,4 +50,4 @@ if __name__ == "__main__":
 Flag: `csd{1_10V3_C1PH3r5_M4Y83_U_11K3D_M1N3_M4Y83_1_5H0U1D_741K_70_7H3_UN173D_N4710N5_4ND_M4K3_7H15_4_0FF1C141_M34N5_0F_C0MMUN1C4710N}`
 </details>
 
-Write-up by [Vipin](https://vipinb.xyz)
+Write-up by [Vipin](https://vipin.xyz)

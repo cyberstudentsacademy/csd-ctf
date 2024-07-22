@@ -39,4 +39,4 @@ Flag: ```csd{h@d_en0ugh_y3t}```
 
 </details>
 
-Write-up by [Vipin](https://vipinb.xyz)
+Write-up by [Vipin](https://vipin.xyz)

@@ -42,5 +42,5 @@ Flag: ```csd{zaq8xsw5cde3}```
 
 </details>
 
-Write-up by [Vipin](https://vipinb.xyz)
+Write-up by [Vipin](https://vipin.xyz)
 
